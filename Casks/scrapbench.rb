@@ -7,7 +7,7 @@ cask "scrapbench" do
   desc "Workbench for text scraps, living in the macOS menu bar"
   homepage "https://github.com/darknos/scrapbench"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Scrapbench.app"
 
