@@ -1,6 +1,6 @@
 cask "scrapbench" do
-  version "0.3.0"
-  sha256 "7d22fe339301b245365e33dd0e30d4401a6ecaafa3e9a395be766b5318260787"
+  version "0.3.1"
+  sha256 "fdcb86efb4c3aca5aaa4ce59673faacafe3cc88ef3a8a477b43e53412cb5806c"
 
   url "https://github.com/darknos/scrapbench/releases/download/v#{version}/Scrapbench-#{version}.zip"
   name "Scrapbench"
